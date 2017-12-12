@@ -9,9 +9,10 @@ BOOK Lists & Bundles
 
 철학
 * 좋아하는 철학자 있으세요? [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791157524990&orderClick=LAH&Kc=)
+* 과학혁명의 구조 / 토머스 S.쿤
 
 언어학
-* 일반언어학 강의 
+* 일반언어학 강의 / 페르디낭 드 소쉬르
 
 SF
 * 2001 space fantasia(2001 야화) [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788959192588)
