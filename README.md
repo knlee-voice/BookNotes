@@ -8,9 +8,9 @@ Start date: 2017-10-29
 BOOK Lists & Bundles 
 
 철학
-* 좋아하는 철학자 있으세요? / [메모](https://github.com/knlee-voice/booknotes/blob/master/100_171029.md) / [BookLink](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791157524990&orderClick=LAH&Kc=) 
-* 과학혁명의 구조 / 토머스 S.쿤 / [메모](https://github.com/knlee-voice/booknotes/blob/master/100_171212.md) 
-* 걷기, 철학자의 생각법 / 로제 폴 드루아 / 책세상 / [메모](https://github.com/knlee-voice/booknotes/blob/master/100_171222.md)
+* 좋아하는 철학자 있으세요? / [메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171029.md) / [BookLink](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791157524990&orderClick=LAH&Kc=) 
+* 과학혁명의 구조 / 토머스 S.쿤 / [메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171212.md) 
+* 걷기, 철학자의 생각법 / 로제 폴 드루아 / 책세상 / [메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171222.md)
 
 언어학
 * 일반언어학 강의 Cours de Linguistique Generale / 페르디낭 드 소쉬르 / 지식을만드는지식
