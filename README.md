@@ -17,12 +17,9 @@ BOOK Lists & Bundles
 
 과학
 * 소리의 과학 The Universal Sense / 세스 S. 호로비츠 / 에이도스  
-* 그레이스 호퍼 - 정보시대를 발명한 여인 / 커트 W. 베이어 / 지식함지
+* 그레이스 호퍼 - 정보시대를 발명한 여인 / 커트 W. 베이어 / 지식함지 / [메모](https://github.com/knlee-voice/BookNotes/blob/master/500_180225.md)
 
 SF
 * 2001 space fantasia(2001 야화) [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788959192588)
 * 플루토
-
-
-
 
