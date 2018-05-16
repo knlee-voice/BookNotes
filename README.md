@@ -23,3 +23,5 @@ SF
 * 2001 space fantasia(2001 야화) [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788959192588)
 * 플루토
 
+트랜드
+* 소리 혁명 / 김재평 외 / 버튼 북스 / [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9791187320180) / [메모](https://github.com/knlee-voice/BookNotes/blob/master/500_180418.md)
