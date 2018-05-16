@@ -21,7 +21,7 @@ SF
 * 플루토
 
 인문
-* 걷기, 철학자의 생각법 / 로제 폴 드루아 / 책세상 / [메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171222.md)
+* 걷기, 철학자의 생각법 / 로제 폴 드루아 / 책세상 / [서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9791159311437) / [메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171222.md)
 
 언어학
 * 일반언어학 강의 Cours de Linguistique Generale / 페르디낭 드 소쉬르 / 지식을만드는지식
