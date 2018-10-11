@@ -17,6 +17,11 @@ Start date: 2017-10-29 <br>
 * 2001 space fantasia(2001 야화) / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788959192588)]
 * 플루토
 
+### 뇌과학
+* 뇌과학 공부 / 박문호 / 김영사 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788934979517)]
+* 그림으로 읽는 뇌과학의 모든 것 / 박문호 / 휴머니스트 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788958625957)]
+* 뇌과학 여행자 - 신경과 의사 예술의 도시에서 뇌를 보다 / 김종성 / 사이언스북스 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788983715593)]
+
 #### 인문
 * 걷기, 철학자의 생각법 / 로제 폴 드루아 / 책세상 / [[서점](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791159311437)] [[메모](https://github.com/knlee-voice/BookNotes/blob/master/100_171222.md)]
 
