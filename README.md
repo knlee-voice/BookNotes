@@ -40,15 +40,20 @@ Start date: 2017-10-29 <br>
 * 뇌과학 공부 | 박문호 | 김영사 | [[kyobo](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788934979517)]
 * 그림으로 읽는 뇌과학의 모든 것 | 박문호 | 휴머니스트 | [[kyobo](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788958625957)]
 * 뇌과학 여행자 - 신경과 의사 예술의 도시에서 뇌를 보다 | 김종성 | 사이언스북스 | [[book](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788983715593)]
+* 천개의 뇌 (뇌의 새로운 이해 그리고 인류와 기계 지능의 미래 | 제프 호킨스 | [[yes24](http://www.yes24.com/product/goods/109085257)]
 
 #### 인문/철학
 * 좋아하는 철학자 있으세요? | [[kyobo](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791157524990)] [[메모](./notes/9791157524990_171029.md)]
 * 쉽게 읽는 루만 | 마르고트 베르크하우스 저 / 이철 역 | 한울아카데미(2012) | [[book](http://www.yes24.com/Product/Goods/17242196)] 
 * 걷기, 철학자의 생각법 | 로제 폴 드루아 | 책세상 | [[kyobo](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791159311437)] [[메모](./notes/100_171222.md)]
 
-#### 언어학/기호학
+#### 언어학/기호학/지식그래프 
 * 일반언어학 강의 Cours de Linguistique Generale | 페르디낭 드 소쉬르 | 지식을만드는지식 | [[yes24](http://www.yes24.com/Product/Goods/6281268)]
 * 기호논리학 | 벤슨 메이츠 저 / 김영정, 선우환 공역 | 문예출판사(1999) | [[yes24](http://www.yes24.com/Product/Goods/1789750)]
+* 온톨로지 과학자를 위한 지식그래프 | 딘 알레망, 제임스 핸들러, 파비엔 갠더 | 한빛아케데미 |  [[yes24](http://www.yes24.com/product/goods/104984379)]
 
 #### 자기계발
 * 고수의 질문법 | 한근태 | 미래의창 | [[yes24](http://www.yes24.com/Product/Goods/58954867)] [[메모](./notes/9788959894987_180516.md)]
+
+#### 트랜드/미래예측 
+* 파이브 포스 (인류의 미래를 바꿀 다섯 가지 핵심 기술) | 스티븐 S.호프만 | 까치글방 | [[yes24](http://www.yes24.com/product/goods/108927515)]
