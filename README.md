@@ -3,6 +3,9 @@ Start date: 2017-10-29 <br>
 [한국십진분류법](https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%8B%AD%EC%A7%84%EB%B6%84%EB%A5%98%EB%B2%95)
 <hr/>
 
+#### 글귀 모음 #### 
+* [[담아두고 싶은 귀퉁이 글](./notes/remark_220623.md)]
+
 #### 통계/수치해석/최적화/계량경제
 * 컴퓨터 시대의 통계적 추론: 알고리즘과 추론의 관계와 역할 | 브래들리 애프론, 트레버 해스티 저/이병욱 역 | 에이콘출판사(2019) | [[yes24](http://www.yes24.com/Product/Goods/71829251)]
 * 계량경제학 강의 | 한치록 | 박영사(2017) | [[yes24](http://www.yes24.com/Product/Goods/36418498)]
